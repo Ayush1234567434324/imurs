@@ -1,12 +1,13 @@
 import './App.css';
-import Navbar from './component/navbar/navbar';
+import { Frame, ImursCorporate } from './component/pricing/price';
 
 function App() {
   return (
     <div >
-   <Navbar/>
+<ImursCorporate/>
     </div>
   );
 }
 
 export default App;
+
