@@ -1,6 +1,6 @@
 import './App.css';
 import { Frame, ImursCorporate } from './component/pricing/price';
-import {NavbarLanding} from '../navbarLanding/navbar';
+import {NavbarLanding} from '../component/navbarLanding/navbar';
 
 function App() {
   return (
